@@ -19,4 +19,5 @@ Here are the recommended memory request functions:<br>
 **2. Unaligned Memory Request:** void * ngx_pnalloc(ngx_pool_t *pool, size_t size);<br>
 **3. Aligned and Initialized Memory Request:**  void * ngx_pcalloc(ngx_pool_t *pool, size_t size);<br>
 
-
+## Run the demo.
+You just need to run cmake . , and then make <br>
